@@ -1,4 +1,4 @@
-# meteor-amazon-product-api
+# meteor-ical-generator
 
 Meteor smart package for https://www.npmjs.com/package/ical-generator
 
